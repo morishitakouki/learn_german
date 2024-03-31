@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = git@github.com:morishitakouki/learn_german_backend.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:morishitakouki/learn_german_frontend.git
